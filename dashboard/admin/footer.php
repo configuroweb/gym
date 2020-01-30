@@ -1,0 +1,1 @@
+<footer class="main">Copyright &copy; 2020 <strong>ConfiiguroWeb | GYM </strong></footer>
