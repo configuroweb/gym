@@ -1,1 +1,1 @@
-<footer class="main">Copyright &copy; 2020 <strong>ConfiiguroWeb | GYM </strong></footer>
+<footer class="main">Copyright &copy; 2023 <strong>Gym Trainer | GYM </strong></footer>
