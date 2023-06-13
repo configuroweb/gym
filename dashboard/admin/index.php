@@ -106,7 +106,7 @@ page_protect();
 							    	}
 							    }
 							}
-							echo "$".$revenue;
+							echo "S/.".$revenue;
 							?>
 						</div>
 				</div></a>
